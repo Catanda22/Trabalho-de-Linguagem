@@ -1,19 +1,17 @@
-# Aplicação de Chat Simples com Sockets (Redes) em Java
-## Descricão
-• Tema: Comunicação em rede e programação concorrente.
-• Objetivo: Desenvolver uma aplicação de chat simples (CLI) onde múltiplos clientes
-podem conectar-se a um servidor e trocar mensagens. O servidor deve ser capaz de
-gerenciar múltiplos clientes simultaneamente.
-# Metodologia:
-  Criamos uma classe ServidorChat que executa conexões de clientes na porta 11.000 utilizando
-  localhost para clientes que estão na mesma máquina e IP para máquinas diferentes;
+# Criação de uma clinica
+O desenvolvimento deste sistema justifica-se pela necessidade de criar uma ferramenta capaz de melhorar a gestão das atividades de uma clínica médica. A aplicação permite organizar informações importantes, reduzir erros humanos e facilitar o acesso aos dados.
+## Objetivo Geral
+Desenvolver um Sistema de Gestão de Clínica Médica utilizando Java, com interface gráfica, integração com banco de dados MySQL e aplicação dos padrões MVC e DAO.
+## Objetivos Específicos
+Para alcançar o objetivo geral, foram definidos os seguintes objetivos:
+•	Criar um módulo para cadastro de pacientes; 
+•	Criar um módulo para cadastro de médicos; 
+•	Desenvolver o módulo de agendamento de consultas; 
 
- Para cada cliente que se conecta, o servidor deve cria uma nova thread;
-  (ClientHandler) para lidar com a comunicação entre clientes;
-  A classe ClientHandler  lê as mensagens dos clientes e retransmiti-las para
-  todos os outros clientes conectados;
+## menbross
+Anacleta Cazebeca
+Catanda Fernando
+Eulália Marquez
+Pedro Vieira
+Ferraz de Asunção
 
- Criou-se classes ClienteChat(1,2,3) que se conectam ao servidor, enviam mensagens e
-  exibem as mensagens recebidas;
-  Utilizou-se  as bibliotecas java.net, java.util e java.io;
-  Garantiu-se o tratamento de IOExceptions.
