@@ -9,9 +9,9 @@ Para alcançar o objetivo geral, foram definidos os seguintes objetivos:
 •	Desenvolver o módulo de agendamento de consultas; 
 
 ## menbross
-Anacleta Cazebeca
-Catanda Fernando
-Eulália Marquez
-Pedro Vieira
-Ferraz de Asunção
+* Anacleta Cazebeca
+* Catanda Fernando
+* Eulália Marquez
+* Pedro Vieira
+* Ferraz de Asunção
 
