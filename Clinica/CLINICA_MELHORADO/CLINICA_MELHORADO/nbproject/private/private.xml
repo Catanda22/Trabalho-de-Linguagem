@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/view/PacienteView.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/dao/PacienteDao.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/controller/MedicoController.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/controller/PacienteController.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/dao/MedicoDAO.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/model/Consulta.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/dao/ConsultaDAO.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/view/RelatorioView.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/model/Usuario.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/view/ProntuarioView.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/dao/ProntuarioDAO.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/view/Agendar.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/dao/Conexao.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/view/OutrosFuncio.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/view/MedicoView.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/view/ConsultaView.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/view/LogoView.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/controller/ConsultaController.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/model/Medico.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/view/MenuPrincipal.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/dao/TesteConexao.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/model/Paciente.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/model/Prontuario.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/controller/LoginController.java</file>
+            <file>file:/C:/Users/Ferraz%20Caianda/NetBeansProjects/CLINICA/src/view/NovoMedicoView.java</file>
+        </group>
+    </open-files>
+</project-private>
