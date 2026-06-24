@@ -1,0 +1,6 @@
+view.BaseDialog
+view.FormularioPaciente
+view.FormularioMedico
+view.FormularioConsulta
+view.BaseDialog$1
+view.FormularioProntuario
